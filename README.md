@@ -160,6 +160,13 @@ fixed | 뷰포트 | X
 
 ***
 
+git init  
+git status  
+git add .  
+git status  
+git commit -m '수정사항입력'  
+git remote add origin 주소  
+git push origin master  
 
 
 
